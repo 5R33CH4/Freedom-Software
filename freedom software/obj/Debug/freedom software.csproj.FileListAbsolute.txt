@@ -1,0 +1,11 @@
+C:\Users\sreec\Downloads\Discord-Token-Generator-master\freedom-software-master\freedom software\bin\Debug\freedom software.exe.config
+C:\Users\sreec\Downloads\Discord-Token-Generator-master\freedom-software-master\freedom software\bin\Debug\freedom software.exe
+C:\Users\sreec\Downloads\Discord-Token-Generator-master\freedom-software-master\freedom software\bin\Debug\freedom software.pdb
+C:\Users\sreec\Downloads\Discord-Token-Generator-master\freedom-software-master\freedom software\obj\Debug\freedom software.csprojAssemblyReference.cache
+C:\Users\sreec\Downloads\Discord-Token-Generator-master\freedom-software-master\freedom software\obj\Debug\freedom_software.Form1.resources
+C:\Users\sreec\Downloads\Discord-Token-Generator-master\freedom-software-master\freedom software\obj\Debug\freedom_software.Form2.resources
+C:\Users\sreec\Downloads\Discord-Token-Generator-master\freedom-software-master\freedom software\obj\Debug\freedom_software.Properties.Resources.resources
+C:\Users\sreec\Downloads\Discord-Token-Generator-master\freedom-software-master\freedom software\obj\Debug\freedom software.csproj.GenerateResource.cache
+C:\Users\sreec\Downloads\Discord-Token-Generator-master\freedom-software-master\freedom software\obj\Debug\freedom software.csproj.CoreCompileInputs.cache
+C:\Users\sreec\Downloads\Discord-Token-Generator-master\freedom-software-master\freedom software\obj\Debug\freedom software.exe
+C:\Users\sreec\Downloads\Discord-Token-Generator-master\freedom-software-master\freedom software\obj\Debug\freedom software.pdb
